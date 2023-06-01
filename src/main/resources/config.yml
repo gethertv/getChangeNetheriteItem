@@ -1,0 +1,14 @@
+# permission: getchangenetherite.use
+# /getchangenetherite
+
+
+lang:
+  netherite-item:
+    cancel:
+      title: "&f"
+      subtitle: "&cMusisz trzymac w rece netherytowy item!"
+      chat: "&cMusisz trzymac w rece netherytowy item!"
+    accept:
+      title: "&f"
+      subtitle: "&aPomyslnie zamieniono przedmiot!"
+      chat: "&aPomyslnie zamieniono przedmiot!"

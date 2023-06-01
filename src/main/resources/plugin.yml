@@ -1,0 +1,4 @@
+name: getChangeNetheriteItem
+version: '${project.version}'
+main: dev.gether.getchangenetheriteitem.GetChangeNetheriteItem
+api-version: 1.16
